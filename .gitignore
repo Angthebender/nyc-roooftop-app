@@ -1,7 +1,5 @@
 ﻿# ========== SECRETS ==========
 .env
-backend/.env
-topspot/.env
 *.key
 *.jks
 *.p8
